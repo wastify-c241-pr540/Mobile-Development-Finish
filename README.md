@@ -1,2 +1,1 @@
-![Uploading Wastify App.png…]()
 
