@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "360028179507",
+    "project_id": "wastify-6b998",
+    "storage_bucket": "wastify-6b998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360028179507:android:830ebb31bb2d55af6be746",
+        "android_client_info": {
+          "package_name": "com.ramm.wastify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360028179507-43orqifrvi46l0p66gmmb1p6ii0f5b4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ramm.wastify",
+            "certificate_hash": "3db472e1c6a4696f462cfe352e67e13f663c82e5"
+          }
+        },
+        {
+          "client_id": "360028179507-4o9t7pfjie4he4sindca2kf5c590r3b8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ramm.wastify",
+            "certificate_hash": "0efd9b604e6a791546e22a9b49798fd6e203b2e6"
+          }
+        },
+        {
+          "client_id": "360028179507-sdoujrovnt93n12dera0jh8fk3qij3vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWjA3J_cr-Xc_K1H4-tFSJr3JsRaxP8x4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360028179507-sdoujrovnt93n12dera0jh8fk3qij3vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

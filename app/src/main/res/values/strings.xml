@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Wastify</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Sign in with google</string>
+    <string name="email">Email</string>
+    <string name="welcome">Selamat datang di wastify!</string>
+    <string name="login_text">Silahkan login terlebih dahulu.</string>
+    <string name="no_acc">Belum mempunyai akun?</string>
+    <string name="register_acc">Register</string>
+    <string name="register_text">Silahkan daftar akun.</string>
+    <string name="register_button">Register</string>
+    <string name="search_bar_hint">Search</string>
+    <string name="user_name">Nama Pengguna</string>
+    <string name="user_online">Online</string>
+    <string name="description_user">This is a sample post content. It can be multiple lines and contain text content.</string>
+    <string name="Home">Beranda</string>
+    <string name="Features">Fitur</string>
+    <string name="Account">Akun</string>
+    <string name="desc_login">Klasifikasi dan Edukasi Sampah Aplikasi Satu Pintu untuk Mempelajari Sampah</string>
+    <string name="skip">Skip Login</string>
+    <string name="education">Edukasi Mengenal Sampah</string>
+    <string name="klasification">Klasifikasi Jenis Sampah</string>
+    <string name="fitur_judul">Fitur</string>
+
+    <string name="selengkapnya">Selengkapnya</string>
+    <string name="organic">Sampah Organik</string>
+    <string name="anorganic">Sampah Anorganik</string>
+    <string name="recyclee">Sampah Daur Ulang</string>
+    <string name="select_galeri">Pilih Gambar</string>
+    <string name="take_camera">Kamera</string>
+    <string name="upload">Unggah</string>
+    <string name="clasification_title">Klasifikasi Sampah</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="hasil">Hasil Analisis</string>
+    <string name="angkut">Angkut Sampah</string>
+
+    <string name="organik">Jenis Sampah: Organik</string>
+    <string name="anorganik">Jenis Sampah: Anorganik</string>
+    <string name="daur_ulang">Jenis Sampah: Daur Ulang</string>
+    <string name="tidak_diketahui">Jenis Sampah: Tidak Diketahui</string>
+    <string name="analyze">analisis sampah</string>"
+    <string name="sedikit">Sedikit</string>
+    <string name="inorganik">Jenis Sampah: inorganik</string>
+    <string name="detecting">Detecting</string>
+    <string name="deskripsi">Deskripsi</string>
+
+
+    <string name="organic_desk">Sampah organik adalah jenis sampah yang berasal dari bahan-bahan alami yang dapat terurai secara biologis oleh mikroorganisme. Contoh sampah organik termasuk sisa makanan, daun, ranting, kulit buah, dan kotoran hewan. Sampah organik umumnya digunakan dalam proses pembuatan kompos, yang kemudian dapat digunakan sebagai pupuk alami untuk tanaman.</string>
+    <string name="anorganic_desk">Sampah anorganik adalah jenis sampah yang berasal dari bahan-bahan yang tidak dapat terurai secara biologis oleh mikroorganisme. Contoh sampah anorganik termasuk plastik, kaca, logam, dan kemasan kertas yang dilapisi bahan lain. Sampah anorganik sering kali memerlukan proses pengelolaan khusus untuk didaur ulang atau dibuang dengan cara yang aman untuk mengurangi dampaknya terhadap lingkungan.</string>
+    <string name="recyclee_desk">Daur ulang adalah proses pengolahan kembali sampah menjadi bahan baru atau produk baru yang berguna. Proses ini membantu mengurangi jumlah sampah yang dibuang ke tempat pembuangan akhir dan mengurangi penggunaan sumber daya alam yang terbatas. Contoh material yang sering didaur ulang meliputi kertas, plastik, logam, dan kaca. Daur ulang tidak hanya membantu mengurangi limbah, tetapi juga mengurangi konsumsi energi dan emisi gas rumah kaca yang terkait dengan produksi barang dari bahan baku baru.</string>
+
+    <string name="menu_user">USER</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_log_out">Log Out</string>
+    <string name="menu_about">About</string>
+    <string name="action_setting">Setting</string>
+    <string name="action_about">About</string>
+    <string name="action_logout">Log Out</string>
+    <string name="trash_statistic">Trash Statistic</string>
+    <string name="waste_statistics">Waste Statistics</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="your_web_client_id">360028179507-sdoujrovnt93n12dera0jh8fk3qij3vv.apps.googleusercontent.com</string>
+    <string name="logout_dialog">Are you sure you want to log out ?</string>
+    <string name="logout_confirm">Yes</string>
+    <string name="logout_cancel">No</string>
+</resources>

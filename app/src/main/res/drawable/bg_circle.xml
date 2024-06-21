@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#265E3B"/> <!-- Sesuaikan dengan warna yang diinginkan -->
+    <corners android:radius="28dp"/> <!-- Setengah dari lebar dan tinggi 56dp -->
+</shape>
